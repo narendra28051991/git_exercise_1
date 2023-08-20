@@ -1,4 +1,8 @@
 Apple
 Banana - modified in main
 Pineapple
+<<<<<<< HEAD
+Conflict success/failure
+=======
 New feature added
+>>>>>>> feature-1/fruits
