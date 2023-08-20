@@ -1,5 +1,3 @@
 Apple
-Banana - modified
+Banana - modified in main
 Pineapple
-Strawberry
-Kiwi
